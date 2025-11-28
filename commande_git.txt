@@ -1,0 +1,4 @@
+git clone (fichier du repository)/URL
+git add (nom du fichier)
+git commit -m message
+git push
